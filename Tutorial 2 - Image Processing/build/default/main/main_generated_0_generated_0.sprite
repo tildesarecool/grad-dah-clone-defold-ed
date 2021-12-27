@@ -1,0 +1,4 @@
+tile_set: "/main/assets.atlas"
+default_animation: "orangeBkgd"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
