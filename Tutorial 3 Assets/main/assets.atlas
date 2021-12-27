@@ -1,0 +1,12 @@
+images {
+  image: "/images/cursorImg.png"
+}
+images {
+  image: "/images/planet.png"
+}
+images {
+  image: "/images/spaceBackground.jpg"
+}
+margin: 0
+extrude_borders: 3
+inner_padding: 0
